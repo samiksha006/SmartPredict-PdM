@@ -1,0 +1,5 @@
+Operating Point,Threshold,Failures missed at 0.50,Failures rescued
+Cost_1_to_1_0.20,0.2,22,7
+Cost_5_to_1_0.11,0.11,22,8
+Cost_10_to_1_0.05,0.05,22,12
+Cost_20_to_1_0.05,0.05,22,12

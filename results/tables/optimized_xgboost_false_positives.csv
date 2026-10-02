@@ -1,0 +1,6 @@
+Type,Air temperature [K],Process temperature [K],Rotational speed [rpm],Torque [Nm],Tool wear [min],Actual,Predicted,Failure_Probability,Model,Error_Type
+L,302.2,310.8,1340,47.8,54,0,1,0.77243775,Optimized XGBoost,False Positive
+M,300.8,310.4,1288,64.0,3,0,1,0.5003573,Optimized XGBoost,False Positive
+M,302.2,310.8,1356,48.3,36,0,1,0.7873253,Optimized XGBoost,False Positive
+M,300.5,310.2,1386,48.2,225,0,1,0.52186286,Optimized XGBoost,False Positive
+L,303.5,312.9,1275,64.4,113,0,1,0.5699694,Optimized XGBoost,False Positive

@@ -1,0 +1,5 @@
+Operating Point,Threshold,New False Alarms
+Cost_1_to_1_0.20,0.2,12
+Cost_5_to_1_0.11,0.11,32
+Cost_10_to_1_0.05,0.05,63
+Cost_20_to_1_0.05,0.05,63

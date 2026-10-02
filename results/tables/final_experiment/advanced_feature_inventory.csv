@@ -1,0 +1,7 @@
+Feature,Definition
+Temperature Difference [K],Process temperature - Air temperature
+Temperature Ratio,Process temperature / Air temperature
+Mechanical Power Proxy,Torque * Rotational speed
+Torque per Speed,Torque / Rotational speed
+Wear per Speed,Tool wear / Rotational speed
+Thermal-Wear Interaction,(Process temperature - Air temperature) * Tool wear

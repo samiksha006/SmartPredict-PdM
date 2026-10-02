@@ -1,0 +1,15 @@
+Feature,Mean_abs_SHAP
+Mechanical Power Proxy,0.7119593
+Tool wear [min],0.66457194
+Rotational speed [rpm],0.5106654
+Torque per Speed,0.43287295
+Temperature Ratio,0.2944588
+Wear per Speed,0.2672876
+Temperature Difference [K],0.23193288
+Torque [Nm],0.17169364
+Thermal-Wear Interaction,0.122020945
+Air temperature [K],0.10404202
+Process temperature [K],0.07570835
+Type_M,0.028784174
+Type_L,0.021831032
+Type_H,0.015192324

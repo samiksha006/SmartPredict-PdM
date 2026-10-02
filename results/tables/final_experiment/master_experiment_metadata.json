@@ -1,0 +1,19 @@
+{
+    "random_state": 42,
+    "total_samples": 10000,
+    "training_samples": 6400,
+    "validation_samples": 1600,
+    "test_samples": 2000,
+    "training_failures": 217,
+    "validation_failures": 54,
+    "test_failures": 68,
+    "target": "Machine failure",
+    "features": [
+        "Type",
+        "Air temperature [K]",
+        "Process temperature [K]",
+        "Rotational speed [rpm]",
+        "Torque [Nm]",
+        "Tool wear [min]"
+    ]
+}

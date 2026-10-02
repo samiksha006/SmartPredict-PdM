@@ -1,0 +1,9 @@
+Feature,Mean_Absolute_SHAP_Failure,Rank
+Torque [Nm],1.9570944,1
+Tool wear [min],1.7327499,2
+Air temperature [K],1.5456328,3
+Rotational speed [rpm],1.2788497,4
+Process temperature [K],0.3487921,5
+Type_L,0.23335773,6
+Type_M,0.030256968,7
+Type_H,0.017602297,8

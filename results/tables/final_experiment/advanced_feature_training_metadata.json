@@ -1,0 +1,19 @@
+{
+  "protocol": "Frozen 6400 train / 1600 validation / 2000 final test",
+  "random_state": 42,
+  "objective": "binary classification; evaluation logloss",
+  "initial_learning_rate": 0.08,
+  "learning_rate_schedule": "max(0.01, 0.08 * 0.985^epoch)",
+  "max_boosting_rounds": 800,
+  "early_stopping_rounds": 60,
+  "threshold_selection": "maximum validation MCC over 0.01-0.50",
+  "derived_features": [
+    "Temperature Difference [K]",
+    "Temperature Ratio",
+    "Mechanical Power Proxy",
+    "Torque per Speed",
+    "Wear per Speed",
+    "Thermal-Wear Interaction"
+  ],
+  "test_set_used_for_tuning": false
+}

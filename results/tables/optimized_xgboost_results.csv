@@ -1,0 +1,2 @@
+Model,PR_AUC,Baseline_PR_AUC,Improvement,Best_Parameters
+Optimized XGBoost,0.7929456720054499,0.805699,-0.012753327994550201,"{'n_estimators': 350, 'max_depth': 7, 'learning_rate': 0.022323520132149687, 'subsample': 0.9474682096161544, 'colsample_bytree': 0.9602378472844514, 'min_child_weight': 1, 'gamma': 0.14439670142040958, 'reg_alpha': 0.0006530679464151186, 'reg_lambda': 0.11243724759917004}"

@@ -1,0 +1,9 @@
+Rank,Feature,Mean_Absolute_SHAP
+1,num__Torque [Nm],1.5953401
+2,num__Tool wear [min],1.3193454
+3,num__Rotational speed [rpm],0.85735697
+4,num__Air temperature [K],0.70648164
+5,num__Process temperature [K],0.28902775
+6,cat__Type_L,0.08373658
+7,cat__Type_H,0.03825194
+8,cat__Type_M,0.022865111

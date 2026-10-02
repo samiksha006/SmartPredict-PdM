@@ -1,0 +1,9 @@
+UDI,Product ID,Type,Air temperature [K],Process temperature [K],Rotational speed [rpm],Torque [Nm],Tool wear [min],Machine failure,TWF,HDF,PWF,OSF,RNF,true_label,failure_probability,original_index,new_threshold,status
+4633,M19492,M,302.9,311.2,1330,53.7,200,1,0,1,0,0,0,1,0.48281944,4632,0.11,Rescued Failure
+2865,H32278,H,300.6,309.4,1380,47.6,246,1,1,0,0,0,0,1,0.11288492,2864,0.11,Rescued Failure
+4308,L51487,L,301.4,309.9,1259,63.9,20,1,0,1,0,0,0,1,0.31173185,4307,0.11,Rescued Failure
+381,L47560,L,297.5,308.3,2564,12.8,127,1,0,0,1,0,0,1,0.39820436,380,0.11,Rescued Failure
+4297,L51476,L,301.8,310.2,2825,5.8,215,1,0,0,1,0,0,1,0.48858953,4296,0.11,Rescued Failure
+6541,M21400,M,301.4,310.7,1368,63.7,92,1,0,0,1,0,0,1,0.26800737,6540,0.11,Rescued Failure
+4079,H33492,H,302.1,310.7,1294,62.4,101,1,0,1,0,0,0,1,0.4255447,4078,0.11,Rescued Failure
+4259,M19118,M,302.7,311.1,1297,60.7,125,1,0,1,0,0,0,1,0.4808581,4258,0.11,Rescued Failure
